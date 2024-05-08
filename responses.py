@@ -8,5 +8,10 @@ responses = [
     {
         "question": "how old are you?",
         "answer": "Lets say I am 1 year old as I am just as AI assistance."
+    },
+
+     {
+        "question": "james is a good student",
+        "answer": "Lets say I am 1 year old as I am just as AI assistance."
     }
 ]
